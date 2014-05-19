@@ -1,0 +1,9 @@
+MainForm = 213, 277, 1402, 929, , 13, 5, 1202, 656, C
+frmAbout = 132, 174, 1321, 825, , 210, 283, 1399, 934, C
+clsSysTray = 110, 145, 1299, 796, C
+modSysTray = 0, 0, 0, 0, C
+modSendKeys = 66, 87, 1255, 738, C
+modActiveWindow = 88, 116, 1277, 767, C
+Registry = 106, 112, 1295, 763, C
+modAutoSaver = 130, 209, 1319, 860, C
+LicenceForm = 66, 87, 1255, 738, C, 192, 219, 1381, 870, C
